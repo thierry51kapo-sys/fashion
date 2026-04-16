@@ -2,7 +2,7 @@
 <html lang="en">
     <HEAD>
     <meta charset="UTF-8">
-    <title> fashipon page</title>
+    <title> FASHION COATS</title>
     </HEAD>
     <STYLE>
         *{
